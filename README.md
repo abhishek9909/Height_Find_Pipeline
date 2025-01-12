@@ -2,7 +2,7 @@
 A simple repo that can help find height of an individual
 
 # Tags:
-- Artificial Intelligence.
+- Artificial Intelligence. (for SEO)
 - Computer Vision.
 - Machine Learning (no seriously, actual ML algos)
 - Deep Learning.
