@@ -1,5 +1,5 @@
 # Height_Find_Pipeline
-A simple repo that can help find height of an individual
+A simple repo that can help find height of an individual using AI and computer vision
 
 # Tags:
 - Artificial Intelligence. (for SEO)
